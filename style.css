@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  background-color: #f0f8ff;
+}
+
+#main_container {
+  background: #e88585;
+  padding: 20px;
+  margin: auto;
+  width: 450px;
+  box-shadow: 0px 0px 10px #936969;
+  border-radius: 10px;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 2px solid rgb(160, 245, 242);
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 2px solid rgb(11, 12, 11);
+  background-color: green;
+
+}
+.point{
+    color: green;
+}
+.wrong{
+    color: red;
+
+}
